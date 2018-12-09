@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "7PLvndIJEMGPeNgzvgt4irbsozY=",
+			"path": "github.com/smallnest/goframe",
+			"revision": "e3e1ecbe5d5560086d386d8631bf8c3981a6d8ff",
+			"revisionTime": "2018-02-01T09:33:23Z"
+		}
+	],
+	"rootPath": "github.com/Liberxue/MQ"
+}
